@@ -5,6 +5,7 @@
 - Share Token
 - Bond Token
 - Convert Token
+- Interval Token
 - Registry Module
 - Token Registry Module
 - Authorization Module
