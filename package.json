@@ -1,0 +1,26 @@
+{
+  "name": "evm-templates",
+  "version": "1.0.0",
+  "description": "- Fund Token - Dollar Token - Share Token - Bond Token - Convert Token - Registry Module - Token Registry Module - Authorization Module - Transactional Module - Transfer Agent Module - Intent Validation Module - MultiSig Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tree": "tsx scripts/tree.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x68cc2122976afc781b8e09b92b6f094547620/evm-templates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/0x68cc2122976afc781b8e09b92b6f094547620/evm-templates/issues"
+  },
+  "homepage": "https://github.com/0x68cc2122976afc781b8e09b92b6f094547620/evm-templates#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0"
+  }
+}
